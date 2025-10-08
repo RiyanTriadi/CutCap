@@ -60,7 +60,7 @@ def takeVideo():
 # GUI (Tampilan)
 # main window
 root = tk.Tk()
-root.title("Take Capcut Vid App")
+root.title("CutCap App")
 root.geometry("400x150") # Mengatur ukuran jendela
 root.resizable(False, False) # Agar ukuran jendela tidak bisa diubah
 
